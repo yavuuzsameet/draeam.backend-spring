@@ -1,0 +1,12 @@
+/Users/yavuuzsameet/IdeaProjects/dreamgames-study/src/test/java/dev/xamet/dreamgamesstudy/filter/AuthenticationFilterTest.java
+/Users/yavuuzsameet/IdeaProjects/dreamgames-study/src/test/java/dev/xamet/dreamgamesstudy/exception/CustomExceptionHandlerTest.java
+/Users/yavuuzsameet/IdeaProjects/dreamgames-study/src/test/java/dev/xamet/dreamgamesstudy/repository/TeamRepositoryTest.java
+/Users/yavuuzsameet/IdeaProjects/dreamgames-study/src/test/java/dev/xamet/dreamgamesstudy/controller/TeamControllerTest.java
+/Users/yavuuzsameet/IdeaProjects/dreamgames-study/src/test/java/dev/xamet/dreamgamesstudy/repository/UserRepositoryTest.java
+/Users/yavuuzsameet/IdeaProjects/dreamgames-study/src/test/java/dev/xamet/dreamgamesstudy/controller/TokenControllerTest.java
+/Users/yavuuzsameet/IdeaProjects/dreamgames-study/src/test/java/dev/xamet/dreamgamesstudy/controller/UserControllerTest.java
+/Users/yavuuzsameet/IdeaProjects/dreamgames-study/src/test/java/dev/xamet/dreamgamesstudy/filter/FilterChainExceptionHandlerTest.java
+/Users/yavuuzsameet/IdeaProjects/dreamgames-study/src/test/java/dev/xamet/dreamgamesstudy/service/TeamServiceTest.java
+/Users/yavuuzsameet/IdeaProjects/dreamgames-study/src/test/java/dev/xamet/dreamgamesstudy/service/UserServiceTest.java
+/Users/yavuuzsameet/IdeaProjects/dreamgames-study/src/test/java/dev/xamet/dreamgamesstudy/utility/TokenValidatorTest.java
+/Users/yavuuzsameet/IdeaProjects/dreamgames-study/src/test/java/dev/xamet/dreamgamesstudy/DreamgamesStudyApplicationTests.java

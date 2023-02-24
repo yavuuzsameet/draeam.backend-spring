@@ -1,0 +1,12 @@
+dev/xamet/dreamgamesstudy/filter/AuthenticationFilterTest.class
+dev/xamet/dreamgamesstudy/controller/TokenControllerTest.class
+dev/xamet/dreamgamesstudy/repository/TeamRepositoryTest.class
+dev/xamet/dreamgamesstudy/repository/UserRepositoryTest.class
+dev/xamet/dreamgamesstudy/exception/CustomExceptionHandlerTest.class
+dev/xamet/dreamgamesstudy/service/TeamServiceTest.class
+dev/xamet/dreamgamesstudy/controller/TeamControllerTest.class
+dev/xamet/dreamgamesstudy/utility/TokenValidatorTest.class
+dev/xamet/dreamgamesstudy/controller/UserControllerTest.class
+dev/xamet/dreamgamesstudy/DreamgamesStudyApplicationTests.class
+dev/xamet/dreamgamesstudy/service/UserServiceTest.class
+dev/xamet/dreamgamesstudy/filter/FilterChainExceptionHandlerTest.class
